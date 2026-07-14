@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Electronics and Communication Engineering | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ECE+%26+Student;Full+Stack+Developer;DSA+Problem+Solver;Building+AI-Powered+Applications">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ECE+Student;Full+Stack+Developer;DSA+Problem+Solver;Building+AI-Powered+Applications">
 </p>
 
 ---
@@ -164,34 +164,20 @@ React • Node.js • Express • MySQL • Python • Scikit-learn • XGBoost
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bharathichethanamn&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keerthikars&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathichethanamn&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/bharathichethana?theme=dark&font=baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Keerthika_robi?theme=dark&font=baloo&ext=heatmap"/>
 </p>
 
 ---
 
-# 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bharathichethanamn&style=for-the-badge&color=blue"/>
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
