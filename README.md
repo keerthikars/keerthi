@@ -18,9 +18,9 @@
 
 - 🎓 B.E in **Electronics and Communication**
 - 🏫 **Sri Eshwar College of Engineering** (2024 – 2028)
-- 💻 Passionate about **Full Stack Development, Artificial Intelligence & Machine Learning**
-- 📈 Solved **140+ LeetCode** & **1300+ Skillrack** problems
-- 🌱 Currently exploring **Machine Learning, REST APIs, React and Modern Web Technologies**
+- 💻 Passionate about **Full Stack Development**
+- 📈 Solved **200+ LeetCode** & **1300+ Skillrack** problems
+- 🌱 Currently exploring **REST APIs, React and Modern Web Technologies**
 - ⚡ Love building real-world applications that combine AI with Web Development
 
 ---
@@ -156,16 +156,8 @@ React • Node.js • Express • MySQL • Python • Scikit-learn • XGBoost
 
 # 💻 Coding Profiles
 
-- 🔥 LeetCode – **140+ Problems Solved**
+- 🔥 LeetCode – **200+ Problems Solved**
 - 💪 Skillrack – **1300+ Problems Solved**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=keerthikars&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
