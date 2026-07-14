@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Electronics and Communication Engineering | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+Problem+Solver;Building+AI-Powered+Applications">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=ECE+%26+Student;Full+Stack+Developer;DSA+Problem+Solver;Building+AI-Powered+Applications">
 </p>
 
 ---
